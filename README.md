@@ -1,4 +1,4 @@
-# powerbi-sales-dashboard
+# POWERBI_SALES_DASHBOARD
 # E-Commerce Sales Dashboard (Power BI)
 
 ## Project Overview
